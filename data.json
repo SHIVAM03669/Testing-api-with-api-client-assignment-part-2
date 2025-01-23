@@ -1,0 +1,802 @@
+[
+  {
+      "book_id": "1",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "copies": 10
+  },
+  {
+      "book_id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960,
+      "copies": 8
+  },
+  {
+      "book_id": "3",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year": 1951,
+      "copies": 5
+  },
+  {
+      "book_id": "4",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year": 1925,
+      "copies": 7
+  },
+  {
+      "book_id": "5",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "copies": 4
+  },
+  {
+      "book_id": "6",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "copies": 6
+  },
+  {
+      "book_id": "7",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "copies": 10
+  },
+  {
+      "book_id": "8",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "copies": 3
+  },
+  {
+      "book_id": "9",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "copies": 5
+  },
+  {
+      "book_id": "10",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "genre": "Political Satire",
+      "year": 1945,
+      "copies": 7
+  },
+  {
+      "book_id": "11",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "year": 1866,
+      "copies": 4
+  },
+  {
+      "book_id": "12",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "year": 1880,
+      "copies": 3
+  },
+  {
+      "book_id": "13",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Historical Fiction",
+      "year": 1862,
+      "copies": 5
+  },
+  {
+      "book_id": "14",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "year": 1869,
+      "copies": 6
+  },
+  {
+      "book_id": "15",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "year": -700,
+      "copies": 8
+  },
+  {
+      "book_id": "16",
+      "title": "The Iliad",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "year": -750,
+      "copies": 8
+  },
+  {
+      "book_id": "17",
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "genre": "Epic Poetry",
+      "year": 1320,
+      "copies": 7
+  },
+  {
+      "book_id": "18",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "copies": 12
+  },
+  {
+      "book_id": "19",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1954,
+      "copies": 9
+  },
+  {
+      "book_id": "20",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 1997,
+      "copies": 15
+  },
+  {
+      "book_id": "21",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 1998,
+      "copies": 14
+  },
+  {
+      "book_id": "22",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 1999,
+      "copies": 13
+  },
+  {
+      "book_id": "23",
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 2000,
+      "copies": 16
+  },
+  {
+      "book_id": "24",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 2003,
+      "copies": 18
+  },
+  {
+      "book_id": "25",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 2005,
+      "copies": 15
+  },
+  {
+      "book_id": "26",
+      "title": "Harry Potter and the Deathly Hallows",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "year": 2007,
+      "copies": 20
+  },
+  {
+      "book_id": "27",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "year": 2008,
+      "copies": 12
+  },
+  {
+      "book_id": "28",
+      "title": "Catching Fire",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "year": 2009,
+      "copies": 10
+  },
+  {
+      "book_id": "29",
+      "title": "Mockingjay",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "year": 2010,
+      "copies": 11
+  },
+  {
+      "book_id": "30",
+      "title": "Percy Jackson and the Olympians: The Lightning Thief",
+      "author": "Rick Riordan",
+      "genre": "Fantasy",
+      "year": 2005,
+      "copies": 8
+  },
+  {
+      "book_id": "31",
+      "title": "Percy Jackson and the Olympians: The Sea of Monsters",
+      "author": "Rick Riordan",
+      "genre": "Fantasy",
+      "year": 2006,
+      "copies": 7
+  },
+  {
+      "book_id": "32",
+      "title": "Percy Jackson and the Olympians: The Titan's Curse",
+      "author": "Rick Riordan",
+      "genre": "Fantasy",
+      "year": 2007,
+      "copies": 6
+  },
+  {
+      "book_id": "33",
+      "title": "Percy Jackson and the Olympians: The Battle of the Labyrinth",
+      "author": "Rick Riordan",
+      "genre": "Fantasy",
+      "year": 2008,
+      "copies": 9
+  },
+  {
+      "book_id": "34",
+      "title": "Percy Jackson and the Olympians: The Last Olympian",
+      "author": "Rick Riordan",
+      "genre": "Fantasy",
+      "year": 2009,
+      "copies": 10
+  },
+  {
+      "book_id": "35",
+      "title": "Divergent",
+      "author": "Veronica Roth",
+      "genre": "Dystopian",
+      "year": 2011,
+      "copies": 14
+  },
+  {
+      "book_id": "36",
+      "title": "Insurgent",
+      "author": "Veronica Roth",
+      "genre": "Dystopian",
+      "year": 2012,
+      "copies": 13
+  },
+  {
+      "book_id": "37",
+      "title": "Allegiant",
+      "author": "Veronica Roth",
+      "genre": "Dystopian",
+      "year": 2013,
+      "copies": 12
+  },
+  {
+      "book_id": "38",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Romance",
+      "year": 2012,
+      "copies": 10
+  },
+  {
+      "book_id": "39",
+      "title": "Looking for Alaska",
+      "author": "John Green",
+      "genre": "Romance",
+      "year": 2005,
+      "copies": 9
+  },
+  {
+      "book_id": "40",
+      "title": "Paper Towns",
+      "author": "John Green",
+      "genre": "Romance",
+      "year": 2008,
+      "copies": 7
+  },
+  {
+      "book_id": "41",
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "genre": "Dystopian",
+      "year": 2009,
+      "copies": 8
+  },
+  {
+      "book_id": "42",
+      "title": "The Scorch Trials",
+      "author": "James Dashner",
+      "genre": "Dystopian",
+      "year": 2010,
+      "copies": 7
+  },
+  {
+      "book_id": "43",
+      "title": "The Death Cure",
+      "author": "James Dashner",
+      "genre": "Dystopian",
+      "year": 2011,
+      "copies": 6
+  },
+  {
+      "book_id": "44",
+      "title": "The Kill Order",
+      "author": "James Dashner",
+      "genre": "Dystopian",
+      "year": 2012,
+      "copies": 5
+  },
+  {
+      "book_id": "45",
+      "title": "The Fever Code",
+      "author": "James Dashner",
+      "genre": "Dystopian",
+      "year": 2016,
+      "copies": 6
+  },
+  {
+      "book_id": "46",
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "genre": "Fantasy",
+      "year": 2005,
+      "copies": 10
+  },
+  {
+      "book_id": "47",
+      "title": "New Moon",
+      "author": "Stephenie Meyer",
+      "genre": "Fantasy",
+      "year": 2006,
+      "copies": 9
+  },
+  {
+      "book_id": "48",
+      "title": "Eclipse",
+      "author": "Stephenie Meyer",
+      "genre": "Fantasy",
+      "year": 2007,
+      "copies": 8
+  },
+  {
+      "book_id": "49",
+      "title": "Breaking Dawn",
+      "author": "Stephenie Meyer",
+      "genre": "Fantasy",
+      "year": 2008,
+      "copies": 11
+  },
+  {
+      "book_id": "50",
+      "title": "The Host",
+      "author": "Stephenie Meyer",
+      "genre": "Science Fiction",
+      "year": 2008,
+      "copies": 7
+  },
+  {
+      "book_id": "51",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Philosophical",
+      "year": 1988,
+      "copies": 10
+  },
+  {
+      "book_id": "52",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-Apocalyptic",
+      "year": 2006,
+      "copies": 8
+  },
+  {
+      "book_id": "53",
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "genre": "Dystopian",
+      "year": 1993,
+      "copies": 7
+  },
+  {
+      "book_id": "54",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "year": 1953,
+      "copies": 9
+  },
+  {
+      "book_id": "55",
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "genre": "Science Fiction",
+      "year": 1969,
+      "copies": 5
+  },
+  {
+      "book_id": "56",
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian",
+      "year": 1985,
+      "copies": 6
+  },
+  {
+      "book_id": "57",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Drama",
+      "year": 2003,
+      "copies": 8
+  },
+  {
+      "book_id": "58",
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "genre": "Drama",
+      "year": 2007,
+      "copies": 7
+  },
+  {
+      "book_id": "59",
+      "title": "The Shadow of the Wind",
+      "author": "Carlos Ruiz Zafón",
+      "genre": "Mystery",
+      "year": 2001,
+      "copies": 9
+  },
+  {
+      "book_id": "60",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical Fiction",
+      "year": 2005,
+      "copies": 10
+  },
+  {
+      "book_id": "61",
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "genre": "Adventure",
+      "year": 2001,
+      "copies": 8
+  },
+  {
+      "book_id": "62",
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "genre": "Drama",
+      "year": 2013,
+      "copies": 7
+  },
+  {
+      "book_id": "63",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "year": 2012,
+      "copies": 9
+  },
+  {
+      "book_id": "64",
+      "title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "genre": "Drama",
+      "year": 2014,
+      "copies": 6
+  },
+  {
+      "book_id": "65",
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Mystery",
+      "year": 2015,
+      "copies": 8
+  },
+  {
+      "book_id": "66",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2003,
+      "copies": 12
+  },
+  {
+      "book_id": "67",
+      "title": "Angels & Demons",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2000,
+      "copies": 10
+  },
+  {
+      "book_id": "68",
+      "title": "Inferno",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2013,
+      "copies": 11
+  },
+  {
+      "book_id": "69",
+      "title": "Deception Point",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2001,
+      "copies": 8
+  },
+  {
+      "book_id": "70",
+      "title": "Digital Fortress",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 1998,
+      "copies": 7
+  },
+  {
+      "book_id": "71",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1977,
+      "copies": 9
+  },
+  {
+      "book_id": "72",
+      "title": "It",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1986,
+      "copies": 8
+  },
+  {
+      "book_id": "73",
+      "title": "Misery",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1987,
+      "copies": 7
+  },
+  {
+      "book_id": "74",
+      "title": "Carrie",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1974,
+      "copies": 6
+  },
+  {
+      "book_id": "75",
+      "title": "The Stand",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1978,
+      "copies": 10
+  },
+  {
+      "book_id": "76",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "copies": 15
+  },
+  {
+      "book_id": "77",
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1954,
+      "copies": 12
+  },
+  {
+      "book_id": "78",
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1954,
+      "copies": 11
+  },
+  {
+      "book_id": "79",
+      "title": "The Return of the King",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1955,
+      "copies": 13
+  },
+  {
+      "book_id": "80",
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "year": 1996,
+      "copies": 10
+  },
+  {
+      "book_id": "81",
+      "title": "A Clash of Kings",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "year": 1998,
+      "copies": 9
+  },
+  {
+      "book_id": "82",
+      "title": "A Storm of Swords",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "year": 2000,
+      "copies": 8
+  },
+  {
+      "book_id": "83",
+      "title": "A Feast for Crows",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "year": 2005,
+      "copies": 7
+  },
+  {
+      "book_id": "84",
+      "title": "A Dance with Dragons",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "year": 2011,
+      "copies": 6
+  },
+  {
+      "book_id": "85",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "year": 2007,
+      "copies": 9
+  },
+  {
+      "book_id": "86",
+      "title": "The Wise Man's Fear",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "year": 2011,
+      "copies": 8
+  },
+  {
+      "book_id": "87",
+      "title": "Mistborn: The Final Empire",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "year": 2006,
+      "copies": 10
+  },
+  {
+      "book_id": "88",
+      "title": "Mistborn: The Well of Ascension",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "year": 2007,
+      "copies": 9
+  },
+  {
+      "book_id": "89",
+      "title": "Mistborn: The Hero of Ages",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "year": 2008,
+      "copies": 8
+  },
+  {
+      "book_id": "90",
+      "title": "Elantris",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "year": 2005,
+      "copies": 7
+  },
+  {
+      "book_id": "91",
+      "title": "Warbreaker",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "year": 2009,
+      "copies": 6
+  },
+  {
+      "book_id": "92",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "year": 1965,
+      "copies": 10
+  },
+  {
+      "book_id": "93",
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "year": 1951,
+      "copies": 9
+  },
+  {
+      "book_id": "94",
+      "title": "I, Robot",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "year": 1950,
+      "copies": 8
+  },
+  {
+      "book_id": "95",
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "genre": "Science Fiction",
+      "year": 1984,
+      "copies": 7
+  },
+  {
+      "book_id": "96",
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "genre": "Science Fiction",
+      "year": 1992,
+      "copies": 6
+  },
+  {
+      "book_id": "97",
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "genre": "Science Fiction",
+      "year": 1989,
+      "copies": 10
+  },
+  {
+      "book_id": "98",
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "genre": "Science Fiction",
+      "year": 1985,
+      "copies": 9
+  },
+  {
+      "book_id": "99",
+      "title": "Speaker for the Dead",
+      "author": "Orson Scott Card",
+      "genre": "Science Fiction",
+      "year": 1986,
+      "copies": 8
+  },
+  {
+      "book_id": "100",
+      "title": "Children of Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "year": 1976,
+      "copies": 7
+  }
+]
